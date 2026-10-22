@@ -1,0 +1,19 @@
+{
+  "categories": {
+    "architecture": "declared",
+    "decisions": "declared",
+    "guides": "declared",
+    "plans": "materialized",
+    "specs": "materialized",
+    "verification": "declared"
+  },
+  "docsRoot": "docs",
+  "generatedAt": "2026-09-25T00:00:00Z",
+  "managedPaths": {
+    "claudeBridge": "CLAUDE.md",
+    "kiroSteering": ".kiro/steering/project-context.md",
+    "sharedInstructions": "AGENTS.md"
+  },
+  "schemaVersion": 1,
+  "standardVersion": "0.9.0"
+}

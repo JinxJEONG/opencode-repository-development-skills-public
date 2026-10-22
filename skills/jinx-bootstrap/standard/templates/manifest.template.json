@@ -1,0 +1,8 @@
+{
+  "managedPaths": {
+    "claudeBridge": "CLAUDE.md",
+    "kiroSteering": ".kiro/steering/project-context.md",
+    "sharedInstructions": "AGENTS.md"
+  },
+  "standardVersion": "1.4.1"
+}

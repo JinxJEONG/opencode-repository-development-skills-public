@@ -1,0 +1,16 @@
+.omo/
+.codegraph/
+__pycache__/
+.memsearch/
+.memsearch.toml
+.mcp.json
+.om-project
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+*.log
